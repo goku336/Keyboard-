@@ -1,0 +1,20 @@
+c:\users\gokul krishna n\documents\visual studio 2012\Projects\KeyboardPOS\KeyboardPOS\bin\Debug\KeyboardPOS.exe.config
+c:\users\gokul krishna n\documents\visual studio 2012\Projects\KeyboardPOS\KeyboardPOS\bin\Debug\KeyboardPOS.exe
+c:\users\gokul krishna n\documents\visual studio 2012\Projects\KeyboardPOS\KeyboardPOS\bin\Debug\KeyboardPOS.pdb
+c:\users\gokul krishna n\documents\visual studio 2012\Projects\KeyboardPOS\KeyboardPOS\obj\Debug\KeyboardPOS.csprojResolveAssemblyReference.cache
+c:\users\gokul krishna n\documents\visual studio 2012\Projects\KeyboardPOS\KeyboardPOS\obj\Debug\KeyboardPOS.Properties.Resources.resources
+c:\users\gokul krishna n\documents\visual studio 2012\Projects\KeyboardPOS\KeyboardPOS\obj\Debug\KeyboardPOS.csproj.GenerateResource.Cache
+c:\users\gokul krishna n\documents\visual studio 2012\Projects\KeyboardPOS\KeyboardPOS\obj\Debug\KeyboardPOS.exe.licenses
+c:\users\gokul krishna n\documents\visual studio 2012\Projects\KeyboardPOS\KeyboardPOS\obj\Debug\KeyboardPOS.exe
+c:\users\gokul krishna n\documents\visual studio 2012\Projects\KeyboardPOS\KeyboardPOS\obj\Debug\KeyboardPOS.pdb
+c:\users\gokul krishna n\documents\visual studio 2012\Projects\KeyboardPOS\KeyboardPOS\obj\Debug\KeyboardPOS.FrmKeyboardPOS.resources
+D:\JOICE\KeyboardPOS\KeyboardPOS\bin\Debug\KeyboardPOS.exe.config
+D:\JOICE\KeyboardPOS\KeyboardPOS\obj\Debug\KeyboardPOS.exe
+D:\JOICE\KeyboardPOS\KeyboardPOS\obj\Debug\KeyboardPOS.pdb
+D:\JOICE\KeyboardPOS\KeyboardPOS\obj\Debug\KeyboardPOS.FrmKeyboardPOS.resources
+D:\JOICE\KeyboardPOS\KeyboardPOS\obj\Debug\KeyboardPOS.Properties.Resources.resources
+D:\JOICE\KeyboardPOS\KeyboardPOS\obj\Debug\KeyboardPOS.csproj.GenerateResource.Cache
+D:\JOICE\KeyboardPOS\KeyboardPOS\obj\Debug\KeyboardPOS.exe.licenses
+D:\JOICE\KeyboardPOS\KeyboardPOS\bin\Debug\KeyboardPOS.exe
+D:\JOICE\KeyboardPOS\KeyboardPOS\bin\Debug\KeyboardPOS.pdb
+D:\JOICE\KeyboardPOS\KeyboardPOS\obj\Debug\KeyboardPOS.csprojResolveAssemblyReference.cache
